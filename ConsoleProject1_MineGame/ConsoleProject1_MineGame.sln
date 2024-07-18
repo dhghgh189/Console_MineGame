@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProject1_MineGame", "ConsoleProject1_MineGame.csproj", "{5E46A354-35B6-4D95-957C-9B4749C74ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E46A354-35B6-4D95-957C-9B4749C74ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E46A354-35B6-4D95-957C-9B4749C74ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E46A354-35B6-4D95-957C-9B4749C74ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E46A354-35B6-4D95-957C-9B4749C74ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8F90B8-E592-49C4-9942-DA4AC038DD90}
+	EndGlobalSection
+EndGlobal
